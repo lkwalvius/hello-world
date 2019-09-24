@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+   xml:id="xxxxxxxxxx"> <!-- replace xxxxxxxxxx by file id -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from
+                    <!-- sender --> to
+                    <!-- recipient-->,
+                    <!-- date -->: A machine-readable transcription</title>
+                <author>
+                    <!-- sender -->
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        <!-- your name -->
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes -->
+            </extent>
+            <publicationStmt>
+                <publisher>Leiden University</publisher>
+                <pubPlace>Leiden, Netherlands</pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    <!-- file ID -->
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p>&#xA9; Copyright  <!-- current year -->, Leiden University</p>
+                </availability>
+                <date> <!-- current year --></date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Letter from
+                            <!-- sender --> to
+                            <!-- recipient-->,
+                            <!-- date -->
+                        </title>
+                        <author>
+                       <!-- sender -->
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Leiden University</publisher>
+                        <idno type="callNo">
+                            
+                            <!-- library callnumber -->
+                        </idno>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the
+                    <!-- current_academic_year_expressed as 20..-20.. -->
+                    <!-- name_of_course --> course, Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>masculine</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                    <!-- summary of contents -->
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName> 
+                            <!-- place name as in letter --> Haarlem
+                        </placeName>
+                        <date when="1921-04-21">
+                            <!-- date_as_found_in_letter --> 21-IV-21
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                            <!-- recipient's name, using <persName> or <orgName> element -->  <orgName>De Ervan F. Bohn, Uitgevers Haarlem</orgName>
+                        </addrLine>
+                        <addrLine>
+                            <!-- recipient's address (add <addrLine>s as required) -->Santpoort <lb/> Kleinhoeve
+                        </addrLine>
+                    </address>
+                    <salute>
+                        <!-- opening salutation --> Zeer geachte Heeren.
+                    </salute>
+                </opener>
+                <p>
+                    
+                    Bij het doorlezen der drukproef van mijn <lb/>
+                    artikel over Rathenau voor <title>"Onze Eeuw"</title> Komt <lb/>
+                    het mij wel wenschelijk voor dat dit artikel ook eens<lb/>
+                    gelezen wordt in kringen, tot welker lectuur <title>"Onze <lb/>
+                    Eeuw"</title> niet behoort. Ik geloof dat de ideëen van <lb/>
+                    Rathenau, waar ik een kort overzicht van trachtte <lb/>
+                    te geven, belangrijk genoeg zijn om in wijden kring <lb/>
+                    eens te worden gelezen, terwijl over hem eigenlijk nog <lb/>
+                    zeer weinig bekend is hier te Lande, hoewel er belang-<lb/>
+                    stelling genoeg voor bestaat. Bovendien staat het on-<lb/>
+                    derwerp bedrijfsorganisatie in het centrum van <lb/>
+                    belangstelling (mede juist nu, nu de ver. voor <unclear reason="illegible">He[.]t</unclear><lb/>
+                    huishoudkunde &amp; Statistiek binnenkort haar jaar-<lb/>
+                    lijkse vergadering aan dit onderwerp zou wijden)<lb/>
+                    Om deze redenen verzoek ik u in overweging te willen<lb/>
+                    nemen [mijn artikel -doorgestreept] de mogelijkheid om mijn artikel<lb/>
+                    als speciale overdruk van <title>"Onze Eeuw"</title> uit te geven.<lb/>
+                    Ik geloof dat het wel belangstelling zal vinden.<lb/>
+                    Voor advies hierover zoudt u zich kunnen wenden <pb/>
+                    tot Prof. van Oven, die het stuk gelezen heeft, en<lb/>
+                    van wie ik een zeer wardeerend oordeel mocht<lb/>
+                    hooren.                    
+                    <!-- text of letter -->
+                </p>
+                <closer>
+                    <salute>
+                        <!-- closing salutation --> Met de meeste hoogachting 
+                    </salute>
+                    <signed>Uw <unclear reason="illegible"> [..]</unclear><lb/>
+                        Bierens de Haan
+                    </signed>
+                    <signed/>
+                    <seg>
+                        <!-- post scriptum -->
+                    </seg>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
