@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd"
+   xml:id="JBDH19210921"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from J. Bierens de Haan to De Erven F. Bohn, Uitgevers Haarlem, 21 September 1921: A machine-readable transcription</title>
+                <author>
+                    J. Bierens de Haan
+                </author>
+                <principal>Prof. dr. Adriaan van der Weel</principal>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>
+                         Lotte Walvius
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup: </resp>
+                    <name>
+                        Lotte Walvius
+                    </name>
+                </respStmt>
+                <respStmt>
+                    <resp>Editorial annotations: </resp>
+                    <name>
+                        Lotte Walvius
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <extent>
+                <!-- file size in kBytes --> 16.0 kB
+            </extent>
+            <publicationStmt>
+                <publisher>Leiden University</publisher>
+                <pubPlace>Leiden, Netherlands</pubPlace>
+                <address>
+                    <addrLine>P.O. Box 9515</addrLine>
+                    <addrLine>2300 RA Leiden</addrLine>
+                </address>
+                <idno>
+                    JBDH19210921
+                </idno>
+                <availability>
+                    <p>Publicly accessible </p>
+                    <p>&#xA9; Copyright 2019, Leiden University</p>
+                </availability>
+                <date> 2019</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Letter from <persName key="JBDH"> J. Bierens de Haan</persName>
+                             to <orgName key="EFBO"> De Erven F. Bohn, Uitgevers Haarlem.</orgName>
+                            , <date when="1921-09-21">21 September 1921</date>
+                        </title>
+                        <author>
+                        <persName key="JBDH"> J. Bierens de Haan</persName>
+                        </author>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Leiden University</publisher>
+                        <idno type="callNo">
+                            BOH C 224: Bierens de Haan 2
+                            
+                        </idno>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared by students of the
+                     2019-2020
+                    Digital Media Technology course, Book and Digital Media Studies, Leiden University</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="dut">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="http://classificationweb.net">
+                    <term>Correspondence</term>
+                </keywords>
+            </textClass>
+            <textClass>
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">
+                    <term>nonfiction</term>
+                    <term>prose</term>
+                    <term>male</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <front>
+            <div type="summary">
+                <p>
+                   This letter to De Erven F. Bohn publishers, contains a request from J. Bierens de Haan to publish his article about Rathenau, which appeared in "Onze Eeuw", again.
+                </p>
+            </div>
+        </front>
+        <body>
+            <div type="letter">
+                <opener>
+                    <dateline>
+                        <placeName> 
+                             Santpoort, Haarlem
+                        </placeName>
+                        <date when="1921-09-21">
+                             21-IX-21
+                        </date>
+                    </dateline>
+                    <address>
+                        <addrLine>
+                             <orgName key="EFBO">De Erven F. Bohn, Uitgevers Haarlem.</orgName>
+                        </addrLine>
+                    </address>
+                    <salute>
+                        Zeer geachte Heeren.
+                    </salute>
+                </opener>
+                <p>
+                    
+                    Bij het doorlezen der drukproef van mijn <lb/>
+                    artikel over <persName>Rathenau</persName><note> <p> Walther Rathenau (1867-1922) was a German politician, industrialist and writer.</p></note> voor <title>"Onze Eeuw"</title><note><p> "Onze Eeuw" was a Dutch magazine published by De Erven F. Bohn. It published book reviews and articles on politics and Dutch history.</p></note> Komt <lb/>
+                    het mij wel wenschelijk voor dat dit artikel ook eens<lb/>
+                    gelezen wordt in kringen, tot welker lectuur <title>"Onze <lb/>
+                    Eeuw"</title> niet behoort. Ik geloof dat de ideëen van <lb/>
+                    <persName>Rathenau</persName>, waar ik een kort overzicht van trachtte <lb/>
+                    te geven, belangrijk genoeg zijn om in wijden kring <lb/>
+                    eens te worden gelezen, terwijl over hem eigenlijk nog <lb/>
+                    zeer weinig bekend is hier te lande, hoewel er belang-<lb/>
+                    stelling genoeg voor bestaat. Bovendien staat het on-<lb/>
+                    derwerp bedrijfsorganisatie in het centrum van <lb/>
+                    belangstelling (mede juist nu, nu de <orgName><choice><abbr>ver.</abbr><expan>Vereniging</expan></choice> voor <unclear reason="illegible" cert="medium">He[.]t</unclear><lb/>
+                    huishoudkunde &amp; Statistiek</orgName> binnenkort haar jaar-<lb/>
+                    lijkse vergadering aan dit onderwerp zou wijden)<lb/>
+                    Om deze redenen verzoek ik u in overweging te willen<lb/>
+                    nemen <del>mijn artikel</del> de mogelijkheid om mijn artikel<lb/>
+                    als speciale overdruk van <title>"Onze Eeuw"</title> uit te geven.<lb/>
+                    Ik geloof dat het wel belangstelling zal vinden.<lb/>
+                    Voor advies hierover zoudt u zich kunnen wenden <pb/>
+                    tot <persName><choice><abbr>Prof.</abbr><expan> Professor</expan></choice> van Oven</persName> <note><p> Julius Christiaan van Oven, a professor in Roman Law</p></note>, die het stuk gelezen heeft, en<lb/>
+                    van wie ik een zeer wardeerend oordeel mocht<lb/>
+                    hooren.                    
+                    
+                </p>
+                <closer>
+                    <salute>
+                       Met de meeste hoogachting 
+                    </salute>
+                    <signed>Uw <gap reason="illegible" extent="1 word"></gap> <lb/>
+                        <persName key="JBDH">J. Bierens de Haan</persName> <note><p>  Johannes Diderik Bierens de Haan, a Dutch writer focussing on socialism</p></note>
+                    </signed>
+                    <address> <addrLine>Santpoort</addrLine> <addrLine>Kleinhoeve</addrLine> </address>
+                    <signed/>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
